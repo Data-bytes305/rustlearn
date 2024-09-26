@@ -24,8 +24,6 @@ pub fn vslice1(s: &String) -> usize {
             return  i;
         }
     }
-
-    
     s.len()
 }
 
